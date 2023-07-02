@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @steveluo32
-- 👀 I’m interested in AI.
-- 🌱 I’m currently learning AI.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in backend engineering and AI.
+- 🌱 I’m currently learning backend engineering and AI.
+- 💞️ I’m looking to collaborate with all energetic programmers.
 
 <!---
 steveluo32/steveluo32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

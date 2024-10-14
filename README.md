@@ -25,4 +25,3 @@ The evolution of knowledge and wisdom comes not only from translating thoughts i
 Our lives are similar to an agent-based scenario, where we have different starting points, measure happiness as the reward function, efforts as the cost function, and use intuition and logic as the heuristics function, continuously adapting through online learning.
 How closely we approach optimal happiness depends on how effectively our heuristics (i.e., intuition and logic) guide our actions.
 - My ultimate goal is to build a good family in the future. Right now, I don’t feel like I have a good family—our family members live separately without a unified mindset, and we don’t know how to contribute to happiness rather than creating pressure and unhappiness. I truly understand the concept of happiness without material wealth (though I don’t doubt the importance of financial stability).
-- I will continuously update my personal philosophy here....

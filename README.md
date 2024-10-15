@@ -1,12 +1,11 @@
 ## Xi Luo (Steven) 
-- I am a graduate student specializing in Artificial Intelligence, and I am eager to proceed with my career as a Machine Learning Engineer, Software Engineer, Data Analyst, Consultant, and Finance Analyst.
-- I have a diverse background, and you may find the answer to why in the section [Personal Philosophy](#personal-philosophy).
-- If any employer views this profile and shows interest, please don't hesitate to contact me.
+
+I am transferring my GitHub account to [@luoxisteven](https://github.com/luoxisteven)  
 
 ---
 ### Contact me
 - `Email:` luoxi9932@gmail.com
-- `Another Github Account:` [@steveluo32](https://github.com/steveluo32)  
+- `Another Github Account:` [@steveluo32](https://github.com/luoxisteven)  
 - `Linkedin:` https://www.linkedin.com/in/xi-luo-6259a1208/
 
 ### About me

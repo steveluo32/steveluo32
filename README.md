@@ -5,7 +5,7 @@ I am transferring my GitHub account to [@luoxisteven](https://github.com/luoxist
 ---
 ### Contact me
 - `Email:` luoxi9932@gmail.com
-- `Another Github Account:` [@steveluo32](https://github.com/luoxisteven)  
+- `Another Github Account:` [@luoxisteven](https://github.com/luoxisteven)  
 - `Linkedin:` https://www.linkedin.com/in/xi-luo-6259a1208/
 
 ### About me
